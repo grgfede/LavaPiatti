@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lost_password">Password Dimenticata?</string>
+    <string name="signUp">Registrati</string>
+    <string name="password_recovery">Resetta password</string>
+    <string name="surname_hint">Cognome</string>
+    <string name="repeat_password_hint">Ripeti password</string>
+    <string name="name_hint">Nome</string>
+    <string name="error_weak_password">Attenzione! Password debole</string>
+    <string name="error_invalid_email">Attenzione! Email non valida</string>
+    <string name="error_user_exists">Attenzione! Email già registratra</string>
+    <string name="error_login">Attenzione! Email o password sbagliate</string>
+    <string name="error_email_missing">Attenzione! Email mancante</string>
+    <string name="error_password_missing">Attenzione! Password mancante</string>
+    <string name="not_have_account">Non hai un account?</string>
+    <string name="back">Indietro</string>
+    <string name="forgot_pass_title">Password dimenticata?</string>
+    <string name="forgot_pass_subtitle">Nessun problema! Inserisci la tua email per reimpostarla</string>
+    <string name="choose_email_client">Scegli email client</string>
+    <string name="forgot_password">Password dimenticata?</string>
+    <string name="forgot_pass_done_title">Complimenti!</string>
+    <string name="forgot_pass_done_subtitle">"Ti abbiamo inviato un'e-mail in modo che tu possa reimpostare la tua password "</string>
+    <string name="signup_title">Sei nuovo?</string>
+    <string name="signup_subtitle">Registrati, è gratis!</string>
+    <string name="error_name_missing">Attenzione! Nome mancante</string>
+    <string name="error_surname_missing">Attenzione! Cognome mancante</string>
+    <string name="error_signup_writeDB">ERRORE: non è possibile registrarsi ora, riprova più tardi</string>
+    <string name="menu_family">Famiglia</string>
+    <string name="menu_profile">Profilo</string>
+    <string name="modify_profile">Modifica</string>
+</resources>

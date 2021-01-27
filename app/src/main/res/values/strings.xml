@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">LavaPiatti</string>
+    <string name="app_name" translatable="false">LavaPiatti</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="password_hint" translatable="false">Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="lost_password">Forgot Password?</string>
+    <string name="signUp">Signup</string>
+    <string name="password_recovery">Reset password</string>
+    <string name="surname_hint">Surname</string>
+    <string name="repeat_password_hint">Repeat password</string>
+    <string name="name_hint">Name</string>
+    <string name="error_weak_password">Warning! Weak password</string>
+    <string name="error_invalid_email">Warning! Invalid email</string>
+    <string name="error_user_exists">Warning! User already exists</string>
+    <string name="error_login">Warning! Email or password incorrenct</string>
+    <string name="error_email_missing">Warning! Email missing</string>
+    <string name="error_password_missing">Warning! Password missing</string>
+    <string name="not_have_account">Do not have an account?</string>
+    <string name="back">Back</string>
+    <string name="forgot_pass_title">Forgot password?</string>
+    <string name="forgot_pass_subtitle">No problem! Enter your email to reset it</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_pass_done_title">Compliments!</string>
+    <string name="forgot_pass_done_subtitle">We have sent you an email so that you can reset your password</string>
+    <string name="signup_title">Are you new here?</string>
+    <string name="signup_subtitle">Sign up, it\'s free!</string>
+    <string name="error_name_missing">Warning! Missing name</string>
+    <string name="error_surname_missing">Warning! Surname missing</string>
+    <string name="error_signup_writeDB">ERROR: Can\'t signup now, try later</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="menu_family">Family</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout" translatable="false">Logout</string>
+    <string name="modify_profile">Modify</string>
 </resources>

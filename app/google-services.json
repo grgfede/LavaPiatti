@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392700172344",
+    "project_id": "lavapiatti-1c5cb",
+    "storage_bucket": "lavapiatti-1c5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392700172344:android:52d6b699cdabd8b06d6ecd",
+        "android_client_info": {
+          "package_name": "com.frarisstudio.lavapiatti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392700172344-odk14ofn3t2ibs2ti9sarqlm5ld9ssf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frarisstudio.lavapiatti",
+            "certificate_hash": "5923face6e332e069bc5a83741de8111afa81e54"
+          }
+        },
+        {
+          "client_id": "392700172344-ur5rhfgegete18di9hufbgghkrfu605f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ8EZ_nGlJ3H2GAjoplQqWsqvhtIlQvN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392700172344-ur5rhfgegete18di9hufbgghkrfu605f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
